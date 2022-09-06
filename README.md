@@ -1,8 +1,6 @@
 # paintjs
 
-Painting Board made with VanilaJS
-
-This is a toy project using HTML, CSS and JavaScript.
+This is a Painting Board using HTML, CSS and JavaScript.
 
 ## Table of contents
 
